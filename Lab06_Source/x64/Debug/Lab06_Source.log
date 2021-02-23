@@ -1,0 +1,7 @@
+﻿  Lab06.cpp
+C:\All Items\GitHub\Lab06\Lab06_Source\Lab06.cpp(112,30): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Lab06_Source.vcxproj -> C:\All Items\GitHub\Lab06\x64\Debug\Lab06_Source.exe
